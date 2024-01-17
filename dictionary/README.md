@@ -1,6 +1,4 @@
-# Dictonary
-
-**TODO: Add description**
+# Dictionary
 
 ## Installation
 
